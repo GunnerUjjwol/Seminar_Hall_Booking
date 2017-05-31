@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="118" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jLabel7" max="32767" attributes="0"/>
+                  <Component id="jLabel8" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jComboBox4" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox6" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="195" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="217" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jComboBox1" max="32767" attributes="0"/>
+                          <Component id="jDateChooser1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jComboBox3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jComboBox2" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jScrollPane1" min="-2" pref="185" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="90" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jComboBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jDateChooser1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                      <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="69" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="49" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Seminar Hall Booking"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Collage"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Building"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Semainar Hall"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Date"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Select Time"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="From"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="To"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Comments (IF ANY)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Select college"/>
+            <StringItem index="1" value="AEC"/>
+            <StringItem index="2" value="ACE"/>
+            <StringItem index="3" value="ACET"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="6">
+            <StringItem index="0" value="Select Building"/>
+            <StringItem index="1" value="Cotton Bhavan"/>
+            <StringItem index="2" value="KL Rao Bhavan"/>
+            <StringItem index="3" value="Bill Gates Bhavan"/>
+            <StringItem index="4" value="Sai Aditya Seminar Hall"/>
+            <StringItem index="5" value="Sri Sai Aditya Seminar Hall"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox3">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="5">
+            <StringItem index="0" value="Select Seminar Hall"/>
+            <StringItem index="1" value="Ground Floor Seminar Hall"/>
+            <StringItem index="2" value="Floor 1 Seminar Hall"/>
+            <StringItem index="3" value="Floor 2 Seminar Hall"/>
+            <StringItem index="4" value="Floor 3 Seminar Hall"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="com.toedter.calendar.JDateChooser" name="jDateChooser1">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox4">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="49">
+            <StringItem index="0" value="HH:MM"/>
+            <StringItem index="1" value="1:00"/>
+            <StringItem index="2" value="1:15"/>
+            <StringItem index="3" value="1:30"/>
+            <StringItem index="4" value="1:45"/>
+            <StringItem index="5" value="2:00"/>
+            <StringItem index="6" value="2:15"/>
+            <StringItem index="7" value="2:30"/>
+            <StringItem index="8" value="2:45"/>
+            <StringItem index="9" value="3:00"/>
+            <StringItem index="10" value="3:15"/>
+            <StringItem index="11" value="3:30"/>
+            <StringItem index="12" value="3:45"/>
+            <StringItem index="13" value="4:00"/>
+            <StringItem index="14" value="4:15"/>
+            <StringItem index="15" value="4:30"/>
+            <StringItem index="16" value="4:45"/>
+            <StringItem index="17" value="5:00"/>
+            <StringItem index="18" value="5:15"/>
+            <StringItem index="19" value="5:30"/>
+            <StringItem index="20" value="5:45"/>
+            <StringItem index="21" value="6:00"/>
+            <StringItem index="22" value="6:15"/>
+            <StringItem index="23" value="6:30"/>
+            <StringItem index="24" value="6:45"/>
+            <StringItem index="25" value="7:00"/>
+            <StringItem index="26" value="7:15"/>
+            <StringItem index="27" value="7:30"/>
+            <StringItem index="28" value="7:45"/>
+            <StringItem index="29" value="8:00"/>
+            <StringItem index="30" value="8:15"/>
+            <StringItem index="31" value="8:30"/>
+            <StringItem index="32" value="8:45"/>
+            <StringItem index="33" value="9:00"/>
+            <StringItem index="34" value="9:15"/>
+            <StringItem index="35" value="9:30"/>
+            <StringItem index="36" value="9:45"/>
+            <StringItem index="37" value="10:00"/>
+            <StringItem index="38" value="10:15"/>
+            <StringItem index="39" value="10:30"/>
+            <StringItem index="40" value="10:45"/>
+            <StringItem index="41" value="11:00"/>
+            <StringItem index="42" value="11:15"/>
+            <StringItem index="43" value="11:30"/>
+            <StringItem index="44" value="11:45"/>
+            <StringItem index="45" value="12:00"/>
+            <StringItem index="46" value="12:15"/>
+            <StringItem index="47" value="12:30"/>
+            <StringItem index="48" value="12:45"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox6">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="49">
+            <StringItem index="0" value="HH:MM"/>
+            <StringItem index="1" value="1:00"/>
+            <StringItem index="2" value="1:15"/>
+            <StringItem index="3" value="1:30"/>
+            <StringItem index="4" value="1:45"/>
+            <StringItem index="5" value="2:00"/>
+            <StringItem index="6" value="2:15"/>
+            <StringItem index="7" value="2:30"/>
+            <StringItem index="8" value="2:45"/>
+            <StringItem index="9" value="3:00"/>
+            <StringItem index="10" value="3:15"/>
+            <StringItem index="11" value="3:30"/>
+            <StringItem index="12" value="3:45"/>
+            <StringItem index="13" value="4:00"/>
+            <StringItem index="14" value="4:15"/>
+            <StringItem index="15" value="4:30"/>
+            <StringItem index="16" value="4:45"/>
+            <StringItem index="17" value="5:00"/>
+            <StringItem index="18" value="5:15"/>
+            <StringItem index="19" value="5:30"/>
+            <StringItem index="20" value="5:45"/>
+            <StringItem index="21" value="6:00"/>
+            <StringItem index="22" value="6:15"/>
+            <StringItem index="23" value="6:30"/>
+            <StringItem index="24" value="6:45"/>
+            <StringItem index="25" value="7:00"/>
+            <StringItem index="26" value="7:15"/>
+            <StringItem index="27" value="7:30"/>
+            <StringItem index="28" value="7:45"/>
+            <StringItem index="29" value="8:00"/>
+            <StringItem index="30" value="8:15"/>
+            <StringItem index="31" value="8:30"/>
+            <StringItem index="32" value="8:45"/>
+            <StringItem index="33" value="9:00"/>
+            <StringItem index="34" value="9:15"/>
+            <StringItem index="35" value="9:30"/>
+            <StringItem index="36" value="9:45"/>
+            <StringItem index="37" value="10:00"/>
+            <StringItem index="38" value="10:15"/>
+            <StringItem index="39" value="10:30"/>
+            <StringItem index="40" value="10:45"/>
+            <StringItem index="41" value="11:00"/>
+            <StringItem index="42" value="11:15"/>
+            <StringItem index="43" value="11:30"/>
+            <StringItem index="44" value="11:45"/>
+            <StringItem index="45" value="12:00"/>
+            <StringItem index="46" value="12:15"/>
+            <StringItem index="47" value="12:30"/>
+            <StringItem index="48" value="12:45"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Book"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Reset"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
